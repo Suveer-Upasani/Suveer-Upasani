@@ -12,7 +12,7 @@
   <a href="mailto:suveerupasani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/suveerupasani">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -37,7 +37,7 @@ I enjoy designing **end-to-end ML pipelines** — from data ingestion and model 
 | Machine Learning & AI | Computer Vision | Cloud & DevOps | Backend & APIs | Data Engineering |
 |----------------------|----------------|----------------|----------------|----------------|
 | 🤖 ML & Deep Learning | 👁️ Object Detection & Tracking | ☁️ AWS, Docker | 🧩 REST APIs & Flask/Django | 📊 SQL & ETL |
-| 🧠 Transformers & ViT | 🏃 Pose Estimation & MediaPipe | ⚡ CI/CD & GitLab | 🔒 Auth & Security | 📈 Analytics & Visualization |
+| 🧠 Transformers & ViT | 🏃 Pose Estimation & MediaPipe | ⚡ CI/CD & GitLab | 🔒 Authentication & Security | 📈 Analytics & Visualization |
 
 ---
 
@@ -69,16 +69,8 @@ I enjoy designing **end-to-end ML pipelines** — from data ingestion and model 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-</p>
-
-**Visualization**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/>
-</p>
-
-**Development**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
@@ -138,7 +130,7 @@ I enjoy designing **end-to-end ML pipelines** — from data ingestion and model 
 <p align="center">
   <a href="mailto:suveerupasani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/suveer-k-upasani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/suveerupasani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -147,7 +139,9 @@ I enjoy designing **end-to-end ML pipelines** — from data ingestion and model 
 
 ---
 
-### ⚡ Fun GitHub Stats
+### ⚡ GitHub Stats
 
-![Suveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suveerupasani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suveerupasani&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suveerupasani&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suveerupasani&layout=compact&theme=radical" />
+</p>
