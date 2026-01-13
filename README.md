@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suveer Upasani</h1>
 
 <h3 align="center">
-🚀 Computer Science Student | 🤖 AI / ML Engineer | ☁️ Cloud & DevOps Enthusiast
+🚀 Computer Science Student | 🤖 AI / ML Engineer | 🧠 RAG Enthusiast | ☁️ Cloud & DevOps Learner
 </h3>
 
 <p align="center">
@@ -24,51 +24,71 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science student** passionate about building **scalable, intelligent systems**  
-🤖 Actively working on **AI / ML, RAG architectures & real-time inference systems**  
-☁️ Strong interest in **Cloud-native development, DevOps & MLOps**
+🎓 I’m a **Computer Science student** passionate about building **scalable, intelligent systems**  
+🤖 Actively working on **AI / ML solutions, RAG pipelines & real-time inference systems**  
+☁️ Exploring **cloud-native architectures, DevOps workflows & MLOps fundamentals**
 
-I enjoy building **end-to-end ML pipelines**:
-> **Data ingestion → Model training → Retrieval systems → Cloud deployment → Monitoring & optimization**
+I love building **end-to-end ML systems**:
 
-⚡ Fun fact: I’m always excited to participate in **hackathons** and rapid prototyping 🚀  
-🎮 Outside coding: Gaming, AI art & robotics tinkering 🤖  
+> **Data ingestion → Embeddings → Retrieval → Model inference → Cloud deployment → Monitoring & optimization**
+
+⚡ **Fun fact:** Always excited to participate in **hackathons** and rapid prototyping 🚀  
+🎮 Outside coding: Gaming, AI art & robotics tinkering 🤖
 
 ---
 
 ## 🔭 What I’m Currently Working On
 
-- 🧠 **Retrieval-Augmented Generation (RAG)** pipelines  
-- ⚡ Scalable **AI / ML backend systems**  
-- ☁️ Deploying ML models with **Docker & CI/CD**
+- 🧠 Retrieval-Augmented Generation (RAG) architectures  
+- ⚡ Scalable ML backends using Python & FastAPI  
+- ☁️ Dockerized deployments with CI/CD pipelines  
+
+---
+
+## 👯 Looking to Collaborate On
+
+- AI / ML projects  
+- RAG-based applications  
+- Hackathons & MVPs  
+- Backend + ML system design  
+
+---
+
+## 🤝 Looking for Help With
+
+- Advanced Data Structures & Algorithms  
+- Optimizing RAG pipelines  
+- ML system design best practices  
+- DevOps tooling & workflows  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced **Data Structures & Algorithms**
-- **Scalable RAG systems & vector databases**
-- **Machine Learning & Deep Learning**
-- **DevOps fundamentals** (Docker, CI/CD, Kubernetes basics)
-- **MLOps & ML system design**
+- 📌 Advanced DSA & problem solving  
+- 📌 Scalable RAG pipelines & vector databases  
+- 📌 Machine Learning & Deep Learning  
+- 📌 DevOps (CI/CD, Docker, Kubernetes basics)  
+- 📌 MLOps & production ML systems  
 
 ---
 
-## 👯 Open to Collaborate On
+## 💬 Ask Me About
 
-- AI / ML projects  
-- RAG-based applications  
-- Hackathons & rapid MVPs  
-- Backend + ML system design  
+- AI / ML fundamentals  
+- RAG architectures  
+- Hackathon ideas & rapid prototyping  
+- Backend + ML integrations  
 
 ---
 
 ## 🧠 Core Domains
 
 | 🤖 AI & ML | 👁️ Computer Vision | ☁️ Cloud & DevOps | 🌐 Backend | 📊 Data |
-|----------|------------------|------------------|-----------|--------|
-| Deep Learning & NLP | Object Detection & Tracking | AWS & Docker | REST APIs | SQL & ETL |
-| Transformers & RAG | MediaPipe, YOLO | CI/CD Pipelines | Flask / Django | Analytics |
+|-----------|------------------|------------------|-----------|--------|
+| NLP & RAG | Object Detection | AWS & Docker | REST APIs | SQL |
+| Transformers | MediaPipe, YOLO | CI/CD | Flask / Django | ETL |
+| Deep Learning | ViT | GitLab CI | FastAPI | Analytics |
 
 ---
 
@@ -79,66 +99,72 @@ I enjoy building **end-to-end ML pipelines**:
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-### 🤖 ML & Data Science
+### 🤖 Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
 
 ### 🧠 AI & RAG
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases & Embeddings
-- Transformers & LLM pipelines
-- Prompt engineering & evaluation
+- Retrieval-Augmented Generation (RAG)  
+- Vector Databases & Embeddings  
+- Transformers & LLM pipelines  
+- Prompt engineering & evaluation  
 
 ---
 
 ### 👁️ Computer Vision
-- YOLO (Object Detection)
-- MediaPipe (Pose Estimation)
-- Vision Transformers (ViT)
-- Multi-Object Tracking (SORT)
+- YOLO (Object Detection)  
+- MediaPipe (Pose Estimation)  
+- Vision Transformers (ViT)  
+- Multi-object tracking (SORT)  
 
 ---
 
-### 🌐 Backend & APIs
-![Flask](https://img.shields.io/badge/flask-%23000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django)
+### 🌐 Backend & Web Development
+![Flask](https://img.shields.io/badge/flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-- RESTful API design
-- Authentication & security
-- Scalable backend architecture
+- RESTful API design  
+- Authentication & security  
+- Scalable backend architecture  
 
 ---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717?style=for-the-badge&logo=gitlab)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite)
+![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Suveer-Upasani&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Suveer-Upasani&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveer-Upasani&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suveer-Upasani&show_icons=true&theme=dark&hide_border=false" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Suveer-Upasani&theme=dark&hide_border=false" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suveer-Upasani&theme=dark&layout=compact&hide_border=false" width="40%"/>
+</p>
 
 ---
 
@@ -151,6 +177,6 @@ I enjoy building **end-to-end ML pipelines**:
 
 ---
 
-⭐ **Always learning, building, and pushing intelligent systems to production.**
+⭐ **Always learning, building, and shipping intelligent systems.**
 
 [![](https://visitcount.itsvg.in/api?id=Suveer-Upasani&icon=0&color=0)](https://visitcount.itsvg.in)
