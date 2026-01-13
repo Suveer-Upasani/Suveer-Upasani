@@ -158,12 +158,21 @@ I love building **end-to-end ML systems**:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suveer-Upasani&show_icons=true&theme=dark&hide_border=false" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Suveer-Upasani&theme=dark&hide_border=false" width="48%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Suveer-Upasani&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Suveer-Upasani&theme=dark&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suveer-Upasani&theme=dark&layout=compact&hide_border=false" width="40%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suveer-Upasani&theme=dark&layout=compact&hide_border=true&cache_seconds=86400"
+    width="40%"
+  />
 </p>
 
 ---
