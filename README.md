@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suveer Upasani</h1>
 
 <h3 align="center">
-  🚀 Computer Science Student | 🤖 ML & Computer Vision Engineer | ☁️ Cloud & DevOps Enthusiast
+🚀 Computer Science Student | 🤖 AI / ML Engineer | ☁️ Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -24,119 +24,125 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science student passionate about **building scalable, intelligent systems**  
-🤖 Focused on **Machine Learning, Computer Vision & Real-Time Inference**  
-☁️ Hands-on with **Cloud-native architectures & DevOps automation**
+🎓 **Computer Science student** passionate about building **scalable, intelligent systems**  
+🤖 Actively working on **AI / ML, RAG architectures & real-time inference systems**  
+☁️ Strong interest in **Cloud-native development, DevOps & MLOps**
 
-I enjoy building **end-to-end ML pipelines** — from **data ingestion → model training → cloud deployment → monitoring & optimization**.
+I enjoy building **end-to-end ML pipelines**:
+> **Data ingestion → Model training → Retrieval systems → Cloud deployment → Monitoring & optimization**
 
-💡 Fun fact: I love combining AI with real-world systems to make them **smarter & more efficient**  
+⚡ Fun fact: I’m always excited to participate in **hackathons** and rapid prototyping 🚀  
 🎮 Outside coding: Gaming, AI art & robotics tinkering 🤖  
+
+---
+
+## 🔭 What I’m Currently Working On
+
+- 🧠 **Retrieval-Augmented Generation (RAG)** pipelines  
+- ⚡ Scalable **AI / ML backend systems**  
+- ☁️ Deploying ML models with **Docker & CI/CD**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Data Structures & Algorithms**
+- **Scalable RAG systems & vector databases**
+- **Machine Learning & Deep Learning**
+- **DevOps fundamentals** (Docker, CI/CD, Kubernetes basics)
+- **MLOps & ML system design**
+
+---
+
+## 👯 Open to Collaborate On
+
+- AI / ML projects  
+- RAG-based applications  
+- Hackathons & rapid MVPs  
+- Backend + ML system design  
 
 ---
 
 ## 🧠 Core Domains
 
-| 🤖 Machine Learning & AI | 👁️ Computer Vision | ☁️ Cloud & DevOps | 🌐 Backend & APIs | 📊 Data Engineering |
-|------------------------|--------------------|------------------|------------------|-------------------|
+| 🤖 AI & ML | 👁️ Computer Vision | ☁️ Cloud & DevOps | 🌐 Backend | 📊 Data |
+|----------|------------------|------------------|-----------|--------|
 | Deep Learning & NLP | Object Detection & Tracking | AWS & Docker | REST APIs | SQL & ETL |
-| Transformers & ViT | Pose Estimation (MediaPipe) | CI/CD Pipelines | Flask / Django | Analytics |
-
----
-
-## 🔥 Skill Proficiency
-
-Machine Learning █████████░ 90%
-Computer Vision █████████░ 90%
-Backend & APIs █████████░ 85%
-Cloud & DevOps ███████░░░ 70%
-Data Engineering ███████░░░ 70%
-
+| Transformers & RAG | MediaPipe, YOLO | CI/CD Pipelines | Flask / Django | Analytics |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
 
 ---
 
 ### 🤖 ML & Data Science
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib)
+
+---
+
+### 🧠 AI & RAG
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases & Embeddings
+- Transformers & LLM pipelines
+- Prompt engineering & evaluation
 
 ---
 
 ### 👁️ Computer Vision
-- YOLO (Object Detection)  
-- MediaPipe (Pose Estimation)  
-- Vision Transformers (ViT), ConvNeXt  
-- SORT (Multi-Object Tracking)
-
-<p>
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logomark_Original.svg" width="40"/>
-</p>
+- YOLO (Object Detection)
+- MediaPipe (Pose Estimation)
+- Vision Transformers (ViT)
+- Multi-Object Tracking (SORT)
 
 ---
 
-### 🌐 Backend & Web Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80"/>
-</p>
+### 🌐 Backend & APIs
+![Flask](https://img.shields.io/badge/flask-%23000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-- RESTful API Design  
-- Authentication & Security  
-- Scalable Backend Architecture  
+- RESTful API design
+- Authentication & security
+- Scalable backend architecture
 
 ---
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
-</p>
-
-- AWS (EC2, S3, Lambda)  
-- GitLab CI/CD  
-- Monitoring & Observability (Datadog)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717?style=for-the-badge&logo=gitlab)
 
 ---
 
-## 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-</p>
+### 🗄️ Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite)
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- 🧠 Reinforcement Learning & Generative AI  
-- ⚡ Edge AI Deployment & Optimization  
-- 🏗️ MLOps & Scalable ML Systems  
+![](https://github-readme-stats.vercel.app/api?username=Suveer-Upasani&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Suveer-Upasani&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveer-Upasani&theme=dark&layout=compact)
 
 ---
 
-## 🎯 Fun Extras
+## 🎯 Philosophy
 
 > **“Models don’t end at accuracy — they begin at deployment.”**
 
@@ -145,4 +151,6 @@ Data Engineering ███████░░░ 70%
 
 ---
 
-⭐ **Always learning, building, and optimizing intelligent systems.**
+⭐ **Always learning, building, and pushing intelligent systems to production.**
+
+[![](https://visitcount.itsvg.in/api?id=Suveer-Upasani&icon=0&color=0)](https://visitcount.itsvg.in)
